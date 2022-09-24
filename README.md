@@ -22,3 +22,8 @@ Em forma de texto, na linguagm C++, temos o seguinte código:
 Link do TinkerCad para visualização do funcionamnto do projeto
 
 https://www.tinkercad.com/things/1sK1y5CndSD-terrific-wolt-lahdi/editel
+
+
+ O intuito do projeto é utiizar o sensor de distância, para quando estivesse captando algo com menos de 155 cm, iria ecoar o buzzer, acender o Led Vermelho e acionar o 
+motor durate 1 segundo, onde o motor iria fechar alguma janela, porta ou etc.Porém, caso o sensor registre algo com mais de 155 cm, iria manter o Led Verde ligado e os 
+demais componentes em nível lógico 0.
